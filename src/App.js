@@ -1,5 +1,3 @@
-import React from "react";
-
 import { FacebookLoginButton } from "react-social-login-buttons";
 import { LoginSocialFacebook } from "reactjs-social-login";
 
